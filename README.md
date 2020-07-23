@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello! Everyone
 
+👻 **路漫漫其修远兮！**
+(There is a long way to go)
 <!--
 **mousezheng/mousezheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
